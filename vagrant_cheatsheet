@@ -1,0 +1,28 @@
+
+Create and configure machine
+  
+  vagrant up
+
+Connect via ssh 
+ 
+  vagrant ssh 
+
+Shutdown machine safely
+  
+  vagrant halt
+
+Restart machine
+
+  vagrant reload
+
+
+Destroy machine
+
+  vagrant destroy
+
+
+Restosre original state
+
+  vagrant destroy && vagrant up
+
+
