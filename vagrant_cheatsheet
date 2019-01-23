@@ -20,9 +20,11 @@ Destroy machine
 
   vagrant destroy
 
-
 Restosre original state
 
   vagrant destroy && vagrant up
 
+Initialize Vagrant
+
+  vagrant init ubuntu/bionic64
 
