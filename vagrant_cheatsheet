@@ -28,3 +28,6 @@ Initialize Vagrant
 
   vagrant init ubuntu/bionic64
 
+Update Box
+  
+  vagrant update box 
