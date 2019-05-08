@@ -30,4 +30,4 @@ Initialize Vagrant
 
 Update Box
   
-  vagrant update box 
+  vagrant box update 
