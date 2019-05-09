@@ -1,3 +1,6 @@
+Initialize Vagrant
+
+  vagrant init ubuntu/bionic64
 
 Create and configure machine
   
@@ -23,10 +26,6 @@ Destroy machine
 Restosre original state
 
   vagrant destroy && vagrant up
-
-Initialize Vagrant
-
-  vagrant init ubuntu/bionic64
 
 Update Box
   
